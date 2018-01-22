@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>main.qml</file>
+        <file>GridScreen.qml</file>
+        <file>ShellScreen.qml</file>
+        <file>ShellChrome.qml</file>
+    </qresource>
+</RCC>
